@@ -1,14 +1,14 @@
 {
-  "name": "the-new-sandbox",
+  "name": "doublequote",
   "version": "0.5.0",
-  "description": "Sandbox site featuring typical Apostrophe features",
+  "description": "forked from apostrophe-sandbox site featuring typical Apostrophe CMS features",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/punkave/apostrophe-sandbox"
+    "url": "https://github.com/n400/doublequote"
   },
   "author": "P'unk Avenue",
   "license": "BSD",
